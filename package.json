@@ -1,0 +1,21 @@
+{
+  "name": "next-ulbi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev -p 5555",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^11.1.2",
+    "reacr": "^1.0.0",
+    "react-dom": "^17.0.2",
+    "sass": "^1.42.1"
+  }
+}
